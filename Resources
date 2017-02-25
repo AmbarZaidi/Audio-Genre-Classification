@@ -1,9 +1,7 @@
+### Papers
 
-
-
-1st research paper 
-Automatic Musical Genre Classification
-Of Audio Signals
+1)
+Automatic Musical Genre Classification Of Audio Signals
 http://ismir2001.ismir.net/pdf/tzanetakis.pdf 
 
 2) Feature Extraction for Musical Genre Classification (2015 ) with reference to 1 
@@ -15,3 +13,9 @@ https://www.ee.columbia.edu/~dpwe/pubs/ismir05-svm.pdf
 
 4) Music Genre Classification
 http://cs229.stanford.edu/proj2011/HaggbladeHongKao-MusicGenreClassification.pdf
+
+### Libraries
+
+python_speech_features
+http://python-speech-features.readthedocs.io/en/latest/
+https://github.com/jameslyons/python_speech_features
