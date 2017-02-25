@@ -19,3 +19,7 @@ http://cs229.stanford.edu/proj2011/HaggbladeHongKao-MusicGenreClassification.pdf
 python_speech_features
 http://python-speech-features.readthedocs.io/en/latest/
 https://github.com/jameslyons/python_speech_features
+
+
+Hamming Window
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.hamming.html
