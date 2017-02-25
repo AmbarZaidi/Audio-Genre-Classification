@@ -1,5 +1,17 @@
-SONG-LEVEL FEATURES AND SUPPORT VECTOR MACHINES FOR MUSIC CLASSIFICATION
+
+
+
+1st research paper 
+Automatic Musical Genre Classification
+Of Audio Signals
+http://ismir2001.ismir.net/pdf/tzanetakis.pdf 
+
+2) Feature Extraction for Musical Genre Classification (2015 ) with reference to 1 
+http://hpac.rwth-aachen.de/teaching/sem-mus-15/reports/Merkelbach.pdf
+
+
+3) SONG-LEVEL FEATURES AND SUPPORT VECTOR MACHINES FOR MUSIC CLASSIFICATION
 https://www.ee.columbia.edu/~dpwe/pubs/ismir05-svm.pdf
 
-Music Genre Classification
+4) Music Genre Classification
 http://cs229.stanford.edu/proj2011/HaggbladeHongKao-MusicGenreClassification.pdf
