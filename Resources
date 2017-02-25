@@ -20,6 +20,12 @@ python_speech_features
 http://python-speech-features.readthedocs.io/en/latest/
 https://github.com/jameslyons/python_speech_features
 
+Reading the signal 
+https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.io.wavfile.read.html
+
+MFCC tutorial
+http://webcache.googleusercontent.com/search?q=cache:BlLUHkdAU_IJ:practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/+&cd=1&hl=en&ct=clnk&gl=in
+
 
 Hamming Window
 https://docs.scipy.org/doc/numpy/reference/generated/numpy.hamming.html
